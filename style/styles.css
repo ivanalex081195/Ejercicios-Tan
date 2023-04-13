@@ -1,8 +1,16 @@
 body {
-   /*  background-image: url("../assets/img/Huellas.jpg"); */
+   background-image: url("../assets/img/Fondo1.png");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
 }
 
-
+p, dl {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 300px;
+}
 h2 {
     font-family: 'Lobster', cursive;
 }
