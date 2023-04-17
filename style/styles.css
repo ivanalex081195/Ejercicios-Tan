@@ -14,3 +14,11 @@ p, dl {
 h2 {
     font-family: 'Lobster', cursive;
 }
+table {
+    border: 5px solid black;
+    text-align: center;
+}
+th, td {
+    border: 2px solid black;
+    padding: 5px;
+}
